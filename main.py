@@ -31,7 +31,7 @@ data = {
     'sunrise': request['sys']['sunrise'],
     'sunset': request['sys']['sunset'],
     'description': request['weather'][0]['description']
-}
+} 
 
 
 # status
